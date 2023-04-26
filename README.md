@@ -7,6 +7,7 @@
   ·
   <a href="https://github.com/Jimmy-Du/backlog-tracker/issues">Request Feature</a>
 </div>
+<p align='center'>Allow a couple of minutes for the application to fully wake up.</p>
 
 ## About The Project:
 With many video games having deep sales and the rise of subscription services for video games, it is quite easy to develop a large game backlog and become difficult to keep track of all the games. Backlog Tracker is a web application with the goal of acting as a hub where users can add the games that they have played or intend to play so that they do not need to browse their libraries on multiple platforms to find out what to play next. This project uses the [IGDB](https://www.igdb.com/discover) api in order to get the video game information to display to the user.
